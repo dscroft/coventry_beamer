@@ -1,6 +1,6 @@
 # coventry_beamer
 
-Put all files in you...
+Put all files in your...
 $TEXMF/tex/latex/beamer/base/themes/theme 
 ...folder
 
